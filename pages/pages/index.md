@@ -1,9 +1,9 @@
 ---
-title: 'Những món đồ cần mua của Tiếp'
+title: 'Những món ăn vỉa hè ngon'
 layout: HomePage
 path: '/'
-meta: Những món đồ cần mua của Tiếp, trang cá nhân tổng hợp đồ cần mua
-keywords: Những món đồ cần mua của Tiếp, trang cá nhân tổng hợp đồ cần mua
+meta: Những món ăn vỉa hè ngon, trang cá nhân tổng hợp đồ cần mua
+keywords: Những món ăn vỉa hè ngon, trang cá nhân tổng hợp đồ cần mua
 ---
 
 

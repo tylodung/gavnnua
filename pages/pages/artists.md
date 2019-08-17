@@ -1,7 +1,7 @@
 ---
-title: 'Danh mục đồ đã có'
+title: 'Danh mục Trà Sữa'
 layout: Artists
 path: '/artists/'
-meta: Danh mục đồ đã có
-keywords: Danh mục đồ đã có
+meta: Danh mục Trà Sữa
+keywords: Danh mục Trà Sữa
 ---
